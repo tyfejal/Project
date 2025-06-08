@@ -52,15 +52,15 @@
 ![main2](front/public/images/readme/mainpage2.png)
 
 ### 금/은 시세 페이지
-![금 시세](front/public/images/readme/금 시세.png)  
-![은 시세](front/public/images/readme/은 시세.png)  
+![금시세](front/public/images/readme/금 시세.png)  
+![은시세](front/public/images/readme/은 시세.png)  
 ✔️ 일자별 금/은 시세 확인 가능
 
 ### 예적금 금리 비교
 ![예적금](front/public/images/readme/예적금 금리 비교.png)
 
 ### 원하는 은행 찾기
-![은행 찾기](front/public/images/readme/은행 찾기.png)  
+![은행찾기](front/public/images/readme/은행 찾기.png)  
 ✔️ 도시/은행명 검색 가능
 
 ### 금융 영상 검색
@@ -68,14 +68,14 @@
 ✔️ 키워드 기반 영상 검색 기능 제공
 
 ### 환율 계산기
-![환율 계산기](front/public/images/readme/환율 계산기.png)
+![환율계산기](front/public/images/readme/환율 계산기.png)
 
 ### 커뮤니티 게시판
 ![커뮤니티](front/public/images/readme/커뮤니티 게시판.png)
 
 ### 금융 상품 추천
-![상품 추천](front/public/images/readme/상품 추천 페이지.png)
-![추천 목록](front/public/images/readme/추천 상품 목록.png)
+![상품추천](front/public/images/readme/상품 추천 페이지.png)
+![추천목록](front/public/images/readme/추천 상품 목록.png)
 
 ---
 
@@ -118,7 +118,7 @@
 - 각자 맡은 기능 개발
 
 ### 🗓️ 5월 26일
-     1. 로그인/ 로그아웃 백엔드 오류
+    1. 로그인/ 로그아웃 백엔드 오류
     -> cookie로 접근 하도록 수정
     2. 예적금 금리 비교 페이지, 상품 추천 페이지 오류.
     -> views.py랑 관련 vue 파일 다 수정해줘도 안됐는데, 결과적으로
