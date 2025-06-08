@@ -25,12 +25,14 @@
 
 ## 🛠️ 기술 스택
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4584b6?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-3D1663?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind CSS-A5F3FC?style=flat-square&logo=tailwindcss&logoColor=black)
+<div style="display:inline-block; text-align:center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-4584b6?style=flat-square&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-3D1663?style=flat-square&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind CSS-A5F3FC?style=flat-square&logo=tailwindcss&logoColor=black">
+    </div>
 
 ---
 
@@ -106,7 +108,7 @@
             -> 쿠키, 세션, 로컬 스토리지 등에 인증 정보를 저장해둬서 그렇다.
 
 ### 🗓️ 5월 23일
- 1. 백 구현 다 하고 프론트 해야 함. (API에 의존하는 부분에서 에러 발생 함...)
+    1. 백 구현 다 하고 프론트 해야 함. (API에 의존하는 부분에서 에러 발생 함...)
     2. 로그인 / 회원가입 기능 구현
     3. 로그인 기능 구현 하는데 자꾸만 404 error 남.
         -> kebab-case로 작성 안해서 생긴 문제
@@ -116,7 +118,7 @@
 - 각자 맡은 기능 개발
 
 ### 🗓️ 5월 26일
- 1. 로그인/ 로그아웃 백엔드 오류
+     1. 로그인/ 로그아웃 백엔드 오류
     -> cookie로 접근 하도록 수정
     2. 예적금 금리 비교 페이지, 상품 추천 페이지 오류.
     -> views.py랑 관련 vue 파일 다 수정해줘도 안됐는데, 결과적으로
@@ -130,7 +132,7 @@
 
 
 ### 🗓️ 5월 27일
- 1. 환율 계산기 API 키 전달에 문제 발생.
+    1. 환율 계산기 API 키 전달에 문제 발생.
     -> SSL 인증서 검증 오류라 certifi 패키지 업데이트 해줌.
     2. 금, 은 시세 chart.js 통해 구현
     3. 로그인 부분 페이지 안 뜸.
